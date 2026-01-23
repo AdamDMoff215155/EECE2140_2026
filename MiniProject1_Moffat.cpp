@@ -8,7 +8,7 @@ int main()
     bool flag = true;
     int option;
 
-    cout << "Hello, welcome to my basic Calculator Program!"<< endl;
+    cout << "Hello, welcome to my basic calculator program!"<< endl;
     cout << "This calculator is only able to perform basic math functions such as additon, subtraction, multiplication, and division" << endl;
 
     while(flag)
@@ -93,5 +93,6 @@ int main()
             break;
         }
     }
+    cout << "Bye!" <<endl;
     return 0;
 }
